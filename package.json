@@ -1,0 +1,31 @@
+{
+  "name": "hichi",
+  "version": "1.0.0",
+  "description": "powerful, secure, hichi. just does nothing",
+  "main": "src/hichi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "node ./Example/console"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheKawasaki/hichi.git"
+  },
+  "keywords": [
+    "nothing",
+    "hichi",
+    "hich",
+    "هیچ",
+    "nope",
+    "no",
+    "nothing",
+    "persian",
+    "iranian"
+  ],
+  "author": "Thekawasaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheKawasaki/hichi/issues"
+  },
+  "homepage": "https://github.com/TheKawasaki/hichi#readme"
+}
